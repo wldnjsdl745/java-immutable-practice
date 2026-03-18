@@ -9,7 +9,7 @@ public class MyDateMain {
         System.out.println("date2 = " + date2);
 
         System.out.println("2026 -> date1");
-        date1.setYear(2026);
+        date1.setMyDate(2026,1,1);
         System.out.println("date1 = " + date1);
         System.out.println("date2 = " + date2);
     }
